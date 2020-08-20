@@ -69,16 +69,21 @@
     background-color: tomato;
     padding: 30px 180px;
     display: flex;
+ margin:10px;
+ height:170px;
 }
 #block2{
     background-color:royalblue;
     padding: 40px 180px;
     display:flex;
+ margin:10px;
+ height:150px;
 }
 #block3{
     background-color: seagreen;
     padding: 60px 180px;
     display:flex;
-     
+ margin:10px;
+ height:100px;    
 }
 
